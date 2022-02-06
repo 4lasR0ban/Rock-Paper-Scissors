@@ -1,0 +1,91 @@
+body {
+    font-family: 'Varela Round', sans-serif;
+    background-color: #11052C;
+    padding: 5px;
+    overflow: hidden;
+    cursor: default;
+}
+
+.container-title {
+    width: 100%;
+    height: 10vh;
+    background-color: #3D087B;
+    color: #FC4F4F;
+    text-align: center;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    border: 5px dotted #F43B86;
+}
+
+.container-light h1 {
+    color: #11052C;
+}
+
+.container-light {
+    width: 100%;
+    min-height: 250px;
+    display: flex;
+}
+
+.indication-player,
+.indication-comp {
+    font-size: 30px;
+}
+
+.light-1,
+.light-2 {
+    flex: 1;
+    background-color: #3D087B;
+    border-radius: 20px;
+    color: #11052C;
+}
+
+.container {
+    width: 500px;
+    min-height: 250px;
+    margin: 0 auto;
+    text-align: center;
+    color: #FC4F4F;
+    padding: 10px;
+    border-radius: 10px;
+    border: 5px dotted #F43B86;
+}
+
+.vs {
+    font-size: 35px;
+    display: flex;
+    background-color: #11052C;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+
+#playerSC,
+#compSC {
+    font-size: 100px;
+}
+
+.btns {
+    margin-bottom: 10px;
+}
+
+.btn {
+    border-radius: 50%;
+    font-size: 40px;
+    border: 5px solid #F43B86;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    color: #FC4F4F;
+    background-color: #FFE459;
+}
+
+#reset {
+    font-size: 25px;
+    border: 5px solid #F43B86;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #FC4F4F;
+    background-color: #FFE459;
+}

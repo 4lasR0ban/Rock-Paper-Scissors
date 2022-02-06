@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock, Paper, Scissors</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container-title">
+        <h1 class="super-title">Rock, Paper, Scissors</h1>
+    </div>
+    <div class="container">
+        <div class="container-light">
+            <div class="light-1">
+                <h1>Player</h1>
+                <span id="playerSC">0</span>
+                <div class="indication-player"></div>
+            </div>
+            <span class="vs">VS</span>
+            <div class="light-2">
+                <h1>Computer</h1>
+                <span id="compSC">0</span>
+                <div class="indication-comp"></div>
+            </div>
+        </div>
+        <div class="desc">
+            <h3>Your Choice</h3>
+        </div>
+        <div class="btns">
+            <button class="btn" id="r"><i class="fas fa-hand-rock"></i></button>
+            <button class="btn" id="p"><i class="fas fa-hand-paper"></i></button>
+            <button class="btn" id="s"><i class="fas fa-hand-scissors"></i></button>
+        </div>
+        <div class="reset">
+            <button id="reset">Reset</button>
+        </div>
+        <div class="footer">
+            <h5>Created by verowardana</h5>
+        </div>
+    </div>
+    <script src="app.js"></script>
+    <script src="https://kit.fontawesome.com/77854ed489.js" crossorigin="anonymous"></script>
+</body>
+
+</html>
