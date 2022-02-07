@@ -3,16 +3,16 @@
 ## Screenshoot
 
 ### Initial View
-![alt text](https://github.com/4lasR0ban/Rock-Paper-Scissors/tree/master/document/Initial%20view%20-%20Rock%2C%20Paper%2C%20Scissors.png?raw=true)
-### Draw View
+![Initial View](https://github.com/4lasR0ban/Rock-Paper-Scissors/blob/master/document/Initial%20view%20-%20Rock%2C%20Paper%2C%20Scissors.png)
 
-![alt text](https://github.com/4lasR0ban/Rock-Paper-Scissors/tree/master/document/Draw%20view%20-%20Rock%2C%20Paper%2C%20Scissors.png?raw=true)
+### Draw View
+![Draw View](https://github.com/4lasR0ban/Rock-Paper-Scissors/blob/master/document/Draw%20view%20-%20Rock%2C%20Paper%2C%20Scissors.png)
 
 ### Lose View
-![alt text](https://github.com/4lasR0ban/Rock-Paper-Scissors/tree/master/document/Lose%20view%20-%20Rock%2C%20Paper%2C%20Scissors.png?raw=true)
+![Lose View](https://github.com/4lasR0ban/Rock-Paper-Scissors/blob/master/document/Lose%20view%20-%20Rock%2C%20Paper%2C%20Scissors.png)
 
 ### Win View
-![alt text](https://github.com/4lasR0ban/Rock-Paper-Scissors/tree/master/document/Win%20View%20-%20Rock%2C%20Paper%2C%20Scissors.png?raw=true)
+![Win View](https://github.com/4lasR0ban/Rock-Paper-Scissors/blob/master/document/Win%20View%20-%20Rock%2C%20Paper%2C%20Scissors.png)
 
 ## Bulit With
   * HTML
