@@ -3,16 +3,16 @@
 ## Screenshoot
 
 ### Initial View
-![alt text](https://github.com/4lasR0ban/Rock-Paper-Scissors/blob/master/Initial%20view%20-%20Rock%2C%20Paper%2C%20Scissors.png?raw=true)
+![alt text](https://github.com/4lasR0ban/Rock-Paper-Scissors/tree/master/document/Initial%20view%20-%20Rock%2C%20Paper%2C%20Scissors.png?raw=true)
 ### Draw View
 
-![alt text](https://github.com/4lasR0ban/Rock-Paper-Scissors/blob/master/Draw%20view%20-%20Rock%2C%20Paper%2C%20Scissors.png?raw=true)
+![alt text](https://github.com/4lasR0ban/Rock-Paper-Scissors/tree/master/document/Draw%20view%20-%20Rock%2C%20Paper%2C%20Scissors.png?raw=true)
 
 ### Lose View
-![alt text](https://github.com/4lasR0ban/Rock-Paper-Scissors/blob/master/Lose%20view%20-%20Rock%2C%20Paper%2C%20Scissors.png?raw=true)
+![alt text](https://github.com/4lasR0ban/Rock-Paper-Scissors/tree/master/document/Lose%20view%20-%20Rock%2C%20Paper%2C%20Scissors.png?raw=true)
 
 ### Win View
-![alt text](https://github.com/4lasR0ban/Rock-Paper-Scissors/blob/master/Win%20View%20-%20Rock%2C%20Paper%2C%20Scissors.png?raw=true)
+![alt text](https://github.com/4lasR0ban/Rock-Paper-Scissors/tree/master/document/Win%20View%20-%20Rock%2C%20Paper%2C%20Scissors.png?raw=true)
 
 ## Bulit With
   * HTML
@@ -26,6 +26,7 @@
   * Paper beats rock.
 
 ## Live Demo
+[Live Demo](https://4lasr0ban.github.io/Rock-Paper-Scissors/).
 
 ## Future Features
   * More animation.
